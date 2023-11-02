@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empleados>
+	<empleado>
+		<numero>1</numero>
+		<apellido>Perez</apellido>
+		<jefe>2</jefe>
+		<salario>1500.0</salario>
+		<oficio>Operario</oficio>
+		<fechaAlta>2021-01-10 00:12:00.0 CET</fechaAlta>
+		<comision>1.5</comision>
+		<departamento>
+			<departamentoNum>2</departamentoNum>
+			<dnombre>1.5</dnombre>
+			<localidad>1.5</localidad>
+		</departamento>
+	</empleado>
+	<empleado>
+		<numero>2</numero>
+		<apellido>asfdsaf</apellido>
+		<salario>10.0</salario>
+		<oficio>sadf</oficio>
+		<fechaAlta>2020-01-20 00:10:00.0 CET</fechaAlta>
+		<comision>30.0</comision>
+		<departamento>
+			<departamentoNum>1</departamentoNum>
+			<dnombre>30.0</dnombre>
+			<localidad>30.0</localidad>
+		</departamento>
+	</empleado>
+	<empleado>
+		<numero>3</numero>
+		<apellido>sadfdsafdsafdsa</apellido>
+		<salario>1243.0</salario>
+		<oficio>safd</oficio>
+		<fechaAlta>2020-01-20 00:10:00.0 CET</fechaAlta>
+		<comision>30.0</comision>
+		<departamento>
+			<departamentoNum>1</departamentoNum>
+			<dnombre>30.0</dnombre>
+			<localidad>30.0</localidad>
+		</departamento>
+	</empleado>
+	<empleado>
+		<numero>4</numero>
+		<apellido>sadfsdaff</apellido>
+		<jefe>2</jefe>
+		<salario>22332.0</salario>
+		<oficio>sadfdsaf</oficio>
+		<fechaAlta>2020-01-10 00:10:00.0 CET</fechaAlta>
+		<comision>20.0</comision>
+		<departamento>
+			<departamentoNum>1</departamentoNum>
+			<dnombre>20.0</dnombre>
+			<localidad>20.0</localidad>
+		</departamento>
+	</empleado>
+</empleados>
